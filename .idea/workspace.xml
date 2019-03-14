@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c94bce7-1753-446e-865d-54c3b5f1c997" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/image-zoom/image-zoom.component.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/image-zoom/image-zoom.component.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image-zoom/image-zoom.type.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/image-zoom/image-zoom.type.ts" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,8 +20,8 @@
       <file leaf-file-name="image-zoom.component.tsx" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/image-zoom/image-zoom.component.tsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="451">
-              <caret line="682" lean-forward="true" selection-start-line="682" selection-end-line="682" />
+            <state relative-caret-position="366">
+              <caret line="178" column="39" selection-start-line="178" selection-start-column="39" selection-end-line="178" selection-end-column="39" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -44,7 +43,7 @@
       <file leaf-file-name="image-zoom.component.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo/built/image-zoom/image-zoom.component.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
+            <state relative-caret-position="8955">
               <caret line="597" column="88" selection-start-line="597" selection-start-column="58" selection-end-line="597" selection-end-column="88" />
             </state>
           </provider>
@@ -67,7 +66,7 @@
       <file leaf-file-name="image-zoom.type.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/image-zoom/image-zoom.type.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
+            <state relative-caret-position="1740">
               <caret line="116" column="39" selection-start-line="116" selection-start-column="9" selection-end-line="116" selection-end-column="39" />
             </state>
           </provider>
@@ -79,6 +78,7 @@
     <findStrings>
       <find>cropWidth</find>
       <find>renderToHardwareTextureAndroid</find>
+      <find>Animated</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -109,8 +109,9 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="42" />
+    <option name="y" value="24" />
     <option name="width" value="1280" />
     <option name="height" value="712" />
   </component>
@@ -182,14 +183,17 @@
       <updated>1551171322995</updated>
       <workItem from="1551171324404" duration="856000" />
       <workItem from="1551172205577" duration="442000" />
+      <workItem from="1551174913404" duration="516000" />
+      <workItem from="1552558088097" duration="4000" />
+      <workItem from="1552558739281" duration="54000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1298000" />
+    <option name="totallyTimeSpent" value="1872000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="712" extended-state="0" />
+    <frame x="0" y="33" width="1280" height="712" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TypeScript" order="7" />
@@ -198,8 +202,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -220,6 +224,135 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/image-zoom/image-zoom.component.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10050">
+          <caret line="682" selection-start-line="682" selection-end-line="682" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/built/image-zoom/image-zoom.component.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/built/image-zoom/image-zoom.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8955">
+          <caret line="597" column="88" selection-start-line="597" selection-start-column="58" selection-end-line="597" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/image-zoom/image-zoom.style.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="108" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/image-zoom/image-zoom.type.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1740">
+          <caret line="116" column="39" selection-start-line="116" selection-start-column="9" selection-end-line="116" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/image-zoom/image-zoom.component.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10050">
+          <caret line="682" selection-start-line="682" selection-end-line="682" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/built/image-zoom/image-zoom.component.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/built/image-zoom/image-zoom.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8955">
+          <caret line="597" column="88" selection-start-line="597" selection-start-column="58" selection-end-line="597" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/image-zoom/image-zoom.style.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="108" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/image-zoom/image-zoom.type.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1740">
+          <caret line="116" column="39" selection-start-line="116" selection-start-column="9" selection-end-line="116" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/image-zoom/image-zoom.component.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10050">
+          <caret line="682" lean-forward="true" selection-start-line="682" selection-end-line="682" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/built/image-zoom/image-zoom.component.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/built/image-zoom/image-zoom.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8955">
+          <caret line="597" column="88" selection-start-line="597" selection-start-column="58" selection-end-line="597" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/image-zoom/image-zoom.style.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="108" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/image-zoom/image-zoom.type.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1740">
+          <caret line="116" column="39" selection-start-line="116" selection-start-column="9" selection-end-line="116" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/image-zoom/image-zoom.component.tsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="10005">
@@ -273,7 +406,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/image-zoom/image-zoom.type.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
+        <state relative-caret-position="1740">
           <caret line="116" column="39" selection-start-line="116" selection-start-column="9" selection-end-line="116" selection-end-column="39" />
         </state>
       </provider>
@@ -289,15 +422,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo/built/image-zoom/image-zoom.component.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
+        <state relative-caret-position="8955">
           <caret line="597" column="88" selection-start-line="597" selection-start-column="58" selection-end-line="597" selection-end-column="88" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/image-zoom/image-zoom.component.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="682" lean-forward="true" selection-start-line="682" selection-end-line="682" />
+        <state relative-caret-position="366">
+          <caret line="178" column="39" selection-start-line="178" selection-start-column="39" selection-end-line="178" selection-end-column="39" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
